@@ -1,0 +1,6 @@
+./ssa <İP> -p <port]
+./timeout ip port 
+./tsovh ip port
+
+
+                     KANALIMA ABONE OLANLARA SİNÜSBOT ÇEKİLİŞİ YAPILCAKTIR NOT : 100 ABONEDE !
